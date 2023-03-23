@@ -49,10 +49,7 @@ p {
 
 }
 
-.text p {
-    margin-left: 30%;
-    width: 40%;
-}
+
 
 .items {
 
@@ -88,7 +85,7 @@ ul li #even {
     width: 100%;
 }
 
-#menu .row a {
+#menu .row #heading212 {
     text-decoration: none;
     background-color: rgba(176, 253, 228, 0.596);
     border-radius: 10px;
@@ -133,9 +130,9 @@ ul li #even {
     color: black;
 }
 
-#items {
+/* #items {
     margin: 40px;
-}
+} */
 
 /* download */
 #download .download-img #apple {
